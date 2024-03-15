@@ -1,4 +1,4 @@
-]# File Organizer
+# File Organizer
 
 This simple Python script automates the process of organizing image files. It moves image files from a source directory to a specified destination directory, supporting a variety of common image formats.
 
